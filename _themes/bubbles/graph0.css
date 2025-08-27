@@ -1,0 +1,87 @@
+<style>
+.mstheme
+{
+	separator-image: url(burule.gif);
+	list-image-1: url(bubull1.gif);
+	list-image-2: url(bubull2.gif);
+	list-image-3: url(bubull3.gif);
+
+	nav-banner-image: url(bubnr.gif);
+
+	navbutton-horiz-normal: url(buphb.gif);
+	navbutton-horiz-pushed: url(buphbp.gif);
+
+	navbutton-vert-normal: url(bupvb.gif);
+	navbutton-vert-pushed: url(bupvbp.gif);
+
+	navbutton-home-normal: url(buhome.gif);
+
+	navbutton-next-normal: url(bunext.gif);
+
+	navbutton-prev-normal: url(buprev.gif);
+
+	navbutton-up-normal: url(buup.gif);
+
+}
+
+.mstheme-bannertxt
+{
+	font-family: Haettenschweiler, Arial, Helvetica;
+	color: rgb(0,0,0);
+	text-align: center;
+	vertical-align: middle;
+}
+.mstheme-horiz-navtxt
+{
+	font-family: Arial, Helvetica;
+	font-weight: bold;
+	color: rgb(255,51,0);
+	text-align: center;
+	vertical-align: middle;
+}
+
+.mstheme-vert-navtxt
+{
+	font-family: Arial, Helvetica;
+	font-weight: bold;
+	color: rgb(255,51,0);
+	text-align: center;
+	vertical-align: middle;
+}
+
+.mstheme-navtxthome
+{
+	font-family: Arial, Helvetica;
+
+	color: rgb(0,0,0);
+	text-align: center;
+	vertical-align: middle;
+}
+
+.mstheme-navtxtnext
+{
+	font-family: Arial, Helvetica;
+
+	color: rgb(0,0,0);
+	text-align: center;
+	vertical-align: middle;
+}
+
+.mstheme-navtxtprev
+{
+	font-family: Arial, Helvetica;
+
+	color: rgb(0,0,0);
+	text-align: center;
+	vertical-align: middle;
+}
+
+.mstheme-navtxtup
+{
+	font-family: Arial, Helvetica;
+
+	color: rgb(0,0,0);
+	text-align: center;
+	vertical-align: middle;
+}
+</style>.
